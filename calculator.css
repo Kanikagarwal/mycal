@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+    overflow: hidden;
+}
+/* navbar styling */
+nav{
+    background-color: #FF7F3F;
+    padding: 15px;
+}
+#nav-head{
+    color: snow;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+button{
+    width: 10vw;
+    height: 10vh;
+    background-color: #e4e4e3c7;
+    border: none;
+    font-size: 1.5vw;
+}
+button:hover{
+    background-color: #FF7F3F;
+color: snow;}
+.whole-contain{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+input{
+    width: 40vw;
+    height: 6vh;
+    margin: 50px 50px 10px 50px;
+    background-color: #e4e4e3c7;
+    border: none;
+    font-size: 2rem;
+}
+table{
+    display: inline-block;
+}
+#equal{
+    color: snow;
+    background-color: #FF7F3F;
+}
